@@ -139,7 +139,7 @@ You will see the following output
 
 `git checkout 8cb66b4`
 
-Take a look at the contents of the `cool_text.txt now.
+Take a look at the contents of the `cool_text.txt` now.
 
 `cat cool_text.txt`
 
