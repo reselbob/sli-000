@@ -6,7 +6,7 @@ In this case you will be working with files on your local respository
 
 This cheat shows you how to create three version of a file and then replenish each version of that file on your file system according to a commit. In this case you're going to move from the 3rd version to the 1st version and then back to the 3rd version.
 
-Before you start, if your environment is not configured with your access credentials, create a set of fictitious user credentials
+Before you start, if your environment is not configured with your GitHub access credentials, create a set of fictitious user credentials
 
 ```
   git config --global user.email "you@example.com"
