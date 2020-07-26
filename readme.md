@@ -98,7 +98,7 @@ You will get the following output:
 * 842d96b : First Commit
 * ae8fa18 : Initial commit$
 ```
-Pay attention to the commit ids. They are important. **Remember!** We added three lines to the file, `cool_test.text` incurring a `git commit` each time a line wa added.
+Pay attention to the commit ids. They are important. **Remember!** We added three lines to the file, `cool_test.text` incurring a `git commit` each time a line was added.
 
 For more information about viewing commit history using `git log` go [here](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History).
 
