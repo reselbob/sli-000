@@ -151,7 +151,7 @@ I am line 2.
 I am line 3.
 ```
 
-Further reading.
+## Further reading
 
 Take a look at `git reset` in the Git documentation [here](https://git-scm.com/docs/git-reset).
 
