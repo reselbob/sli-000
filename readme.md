@@ -151,6 +151,11 @@ I am line 2.
 I am line 3.
 ```
 
+Further reading.
+
+Take a look at `git reset` in the Git documentation [here](https://git-scm.com/docs/git-reset).
+
+Take a look at `git revert` in the Git documentation [here](https://git-scm.com/docs/git-revert).
 
 
 
