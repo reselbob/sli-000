@@ -108,7 +108,7 @@ For more information about viewing commit history using `git log` go [here](http
 
 Execute the command:
 
-`git checkout 4a7d9eac`
+`git checkout a7d9eac`
 
 You will get output similar to the following:
 
